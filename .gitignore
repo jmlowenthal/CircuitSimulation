@@ -1,6 +1,9 @@
 # Ignore all
 *
 
+# Except directories
+!*/
+
 # Except
 !.gitignore
 !*.c
